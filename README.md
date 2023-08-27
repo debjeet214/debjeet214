@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my experience is here [www.linkedin.com/in/debjeet-ghosh-b21bba254](www.linkedin.com/in/debjeet-ghosh-b21bba254)
 
-- 💬 Ask me about **c, c++, html, DSA**
+- 💬 Ask me about **c, c++, html, DSA, Ruby**
 
 - 📫 How to reach me **debjeetghosh2149@gmail.com**
 
