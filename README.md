@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debjeet Ghosh</h1>
-<h3 align="center">A passionate Web Developer from INDIA , Learning more </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debjeet214&label=Profile%20views&color=0e75b6&style=flat" alt="debjeet214" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debjeet214" alt="debjeet214" /></a> </p>
+<h3 align="center">A passionate programmer from India</h3>
+<img align="right" width="500" alt="code" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWN0b2l0NGhhY2ZuZGdvajFmamtoZ2Z2bW90cWt1MXhqeHM5cmoyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning **In-depth Web development & DSA**
 
@@ -27,7 +24,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/debjeetghosh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/debjeetghosh" /></a></p><br><br>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debjeet214&show_icons=true&locale=en&layout=compact" alt="debjeet214" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debjeet214&show_icons=true&locale=en" alt="debjeet214" /></p>
