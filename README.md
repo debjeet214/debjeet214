@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debjeet Ghosh</h1>
 <h3 align="center">A passionate programmer from India</h3>
-<img align="right" width="500" alt="code" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWN0b2l0NGhhY2ZuZGdvajFmamtoZ2Z2bW90cWt1MXhqeHM5cmoyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="350" alt="code" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWN0b2l0NGhhY2ZuZGdvajFmamtoZ2Z2bW90cWt1MXhqeHM5cmoyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌱 I’m currently learning **In-depth Web development & DSA**
 
