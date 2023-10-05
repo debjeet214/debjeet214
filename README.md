@@ -1,4 +1,4 @@
-<img align="center" width="100%" height="30%" alt="code" src="https://wallpapercave.com/wp/wp8778419.png">
+<img  alt="code" src="https://w0.peakpx.com/wallpaper/5/512/HD-wallpaper-python-amoled-coding-dark-programming.jpg">
 <h1 align="center">Hi 👋, I'm Debjeet Ghosh</h1>
 <h3 align="center">A passionate programmer from India</h3>
 <img align="right" width="400" alt="code" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWN0b2l0NGhhY2ZuZGdvajFmamtoZ2Z2bW90cWt1MXhqeHM5cmoyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
