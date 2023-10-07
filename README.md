@@ -48,6 +48,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/debjeetghosh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/debjeetghosh" /></a></p><br><br>
 <br>
-<p style><img src="https://github-readme-stats.vercel.app/api/top-langs?username=debjeet214&show_icons=true&locale=en&layout=compact" alt="debjeet214" /></p>
+<p ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=debjeet214&show_icons=true&locale=en&layout=compact" alt="debjeet214" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=debjeet214&show_icons=true&locale=en" alt="debjeet214" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=debjeet214&" alt="debjeet214" /></p>
