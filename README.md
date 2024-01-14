@@ -19,9 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/debjeet214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="debjeet214" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/debjeet ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debjeet ghosh" height="30" width="40" /></a>
-<a href="https://instagram.com/harldson herald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harldson herald" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/debjeet ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="debjeet ghosh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debjeet-ghosh-b21bba254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debjeet ghosh" height="30" width="40" /></a>
+<a href="https://instagram.com/harldsonherald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harldson herald" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/debjeetghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="debjeet ghosh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/debjeet21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="debjeet21" height="30" width="40" /></a>
 </p>
 
