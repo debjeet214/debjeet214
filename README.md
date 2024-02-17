@@ -1,4 +1,4 @@
-<img width="100%" object-fit="cover" alt="code" src="https://camo.githubusercontent.com/0a331c5c46ea6742eec6ec44528dffa0c90ea47ec96a775088e12368d1cbfa87/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d653833643834266865696768743d3132302673656374696f6e3d686561646572">
+<img width="100%" object-fit="cover" alt="code" src="https://cdn.neowin.com/news/images/uploaded/2021/04/1619644762_github-desktop_story.jpg">
 <h1 align="center">Hi 👋, I'm Debjeet Ghosh</h1>
 <h3 align="center">A passionate programmer from India</h3>
 <img align="right" width="400" alt="code" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWN0b2l0NGhhY2ZuZGdvajFmamtoZ2Z2bW90cWt1MXhqeHM5cmoyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
