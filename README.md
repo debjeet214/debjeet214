@@ -1,4 +1,3 @@
-<img width="100%" object-fit="cover" alt="code" src="https://cdn.neowin.com/news/images/uploaded/2021/04/1619644762_github-desktop_story.jpg">
 <h1 align="center">Hi 👋, I'm Debjeet Ghosh</h1>
 <h3 align="center">A passionate programmer from India</h3>
 <img align="right" width="400" alt="code" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWN0b2l0NGhhY2ZuZGdvajFmamtoZ2Z2bW90cWt1MXhqeHM5cmoyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
